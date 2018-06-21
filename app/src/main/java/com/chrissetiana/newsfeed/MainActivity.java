@@ -1,4 +1,4 @@
-package com.chrissetiana.newsapp;
+package com.chrissetiana.newsfeed;
 
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;

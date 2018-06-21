@@ -1,4 +1,4 @@
-package com.chrissetiana.newsapp;
+package com.chrissetiana.newsfeed;
 
 import org.junit.Test;
 
