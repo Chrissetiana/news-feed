@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">News Feed</string>
+    <string name="news_title">News Flash</string>
+    <string name="news_author">by Chrisse Tiana</string>
+    <string name="news_date">Tuesday, Nov 13, 2018 11:13 AM</string>
+    <string name="news_image">This is an image</string>
 </resources>
